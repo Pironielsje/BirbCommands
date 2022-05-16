@@ -64,6 +64,8 @@ Commands For The Birb Bot                               /: required argument   /
 
 **b.supportserver** - Support server invite. - Usage: b.supportserver
 
+**b.botinfo** - Get the info for the bot! - Usage: b.botinfo
+
 ## Family Commands
 **b.marry** - "Marry" someone on the server. - Usage: b.marry /User Mention/
 
